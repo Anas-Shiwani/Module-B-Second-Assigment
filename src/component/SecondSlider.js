@@ -47,6 +47,9 @@ function Slider() {
                             </div>
                         </div>
                     </SwiperSlide>
+
+
+                    
                     <SwiperSlide className='swiper-slide'>
                     <div className='slider-inner-div'>
                             <div className='left-side'>
